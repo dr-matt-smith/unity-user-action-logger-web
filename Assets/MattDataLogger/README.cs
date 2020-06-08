@@ -1,7 +1,13 @@
-# unit-user-logger-web
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-Log user actions to a Web log
+public class README : MonoBehaviour {
 
+}
+
+/*
+ 
 NOTE - only use a NUMBER for participant ID - so a specific human can never be identified from the logged data
 the experiment data is then anonymised which means you can do what you like with it, including publishing it
 
@@ -60,3 +66,6 @@ You can see logs / edit them / download all as a CSV file / delete all logs
 
 
 have fun .. matt ..
+
+
+*/
