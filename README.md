@@ -11,6 +11,12 @@ something I do sometimes, so the ID doesn't even indicate the SEQUENCE of users,
 (with no duplicate IDs of course)
 
 --------
+QUICK SETUP
+
+Add the package to your project - it will add a folder to your `Assets` containing the scripts and prefab you need
+
+
+--------
 (1) Each scene needs a GameObject named "logsender", which has an script component of "SendToWebLog.cs"
 
 Note - there is a prefab GameObject in the "Prefabs" folder with one of these
