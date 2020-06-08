@@ -13,7 +13,7 @@ something I do sometimes, so the ID doesn't even indicate the SEQUENCE of users,
 --------
 QUICK SETUP
 
-Add the package to your project - it will add a folder to your `Assets` containing the scripts and prefab you need
+Add package `matt-user-logger-web.unitypackage` to your project - it will add a folder to your `Assets` containing the scripts and prefab you need
 
 
 --------
