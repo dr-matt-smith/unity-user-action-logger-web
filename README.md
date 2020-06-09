@@ -1,8 +1,14 @@
 # unit-user-logger-web
 
-## Relates project
+## Accompanying project
 
 https://github.com/dr-matt-smith/user-logger-website
+
+## Related project
+
+Older, CVS text file user logger (for stand-alone apps / editor games)
+
+- https://github.com/dr-matt-smith/unity-user-action-logger
 
 ## About
 
