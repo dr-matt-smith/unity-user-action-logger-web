@@ -1,4 +1,4 @@
-# unit-user-logger-web
+# unity-user-logger-web
 
 ## Accompanying project
 
